@@ -1,2 +1,3 @@
 # git_test
-Starting Odin Project with this repo 
+My frist Github repo!
+Hello Odin!
